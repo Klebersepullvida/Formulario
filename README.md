@@ -1,6 +1,6 @@
 # Formulario
 
-Neste projeto simples, aplico meus conhecimentos adquiridos em HTML, CSS E JAVASCRIPT para desenvolver este formulário, aplicando também técnicas de responsividade adequando da forma correta a minha resolução de tela atual. 
+Neste projeto simples, aplico meus conhecimentos adquiridos em HTML, CSS E um pouco de JAVASCRIPT para desenvolver este formulário, aplicando também técnicas de responsividade adequando da forma correta a minha resolução de tela atual. 
 
 fico aberto para colaborações ou dicas para melhora-lo futuramente.
 
